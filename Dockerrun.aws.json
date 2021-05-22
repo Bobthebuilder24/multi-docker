@@ -24,7 +24,7 @@
         },
         {
             "name": "ngnix",
-            "image": "bobthebuilder24/multi-ngnix",
+            "image": "bobthebuilder24/multi-nginx",
             "hostname": "nginx",
             "essential": true,
             "portMapping": [
