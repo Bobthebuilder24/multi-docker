@@ -17,7 +17,7 @@
       },
       {
         "name": "worker",
-        "image": "cygnetops/multi-worker-10-14",
+        "image": "bobthebuilder24/multi-worker",
         "hostname": "worker",
         "essential": false,
         "memory": 128
