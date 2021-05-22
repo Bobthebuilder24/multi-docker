@@ -27,7 +27,7 @@
             "image": "bobthebuilder24/multi-nginx",
             "hostname": "nginx",
             "essential": true,
-            "portMapping": [
+            "portMappings": [
                 {
                     "hostPost":80,
                     "containerPort": 80
