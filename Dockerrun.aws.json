@@ -10,7 +10,7 @@
       },
       {
         "name": "server",
-        "image": "cygnetops/multi-server-10-14",
+        "image": "bobthebuilder24/multi-server",
         "hostname": "api",
         "essential": false,
         "memory": 128
