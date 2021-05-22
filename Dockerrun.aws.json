@@ -23,7 +23,7 @@
             "memory": 128
         },
         {
-            "name": "ngnix",
+            "name": "nginx",
             "image": "bobthebuilder24/multi-nginx",
             "hostname": "nginx",
             "essential": true,
