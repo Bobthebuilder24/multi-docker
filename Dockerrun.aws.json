@@ -24,7 +24,7 @@
       },
       {
         "name": "nginx",
-        "image": "cygnetops/multi-nginx-10-14",
+        "image": "bobthebuilder24/multi-nginx",
         "hostname": "nginx",
         "essential": true,
         "portMappings": [
