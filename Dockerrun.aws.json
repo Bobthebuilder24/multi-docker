@@ -3,7 +3,7 @@
     "containerDefinitions": [
       {
         "name": "client",
-        "image": "cygnetops/multi-client-10-14",
+        "image": "bobthebuilder24/multi-client",
         "hostname": "client",
         "essential": false,
         "memory": 128
